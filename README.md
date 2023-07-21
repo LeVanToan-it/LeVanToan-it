@@ -1,5 +1,10 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Toan Le. I am a Web Developer. Graduated at Industrial University of HoChiMinh city with majoring in Software Technology.<br>
+Date of birth: September 9, 2000 <br>
+Address: Ward 17, Go Vap district, HCMC / Bien Hoa - Dong Nai
+Email: lvtoan.cv@gmail.com
+Phone: 08 1949 0540
+Download <a type="button" href="https://gregarious-fox-bdbbb1.netlify.app/dummy.pdf">My CV</a>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/toan-lv/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LeVanToan-it)
