@@ -1,21 +1,22 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Toan Le. I am an Graduated Student, majoring in Software Technology.<br>
+My name is Toan Le. I am a Web Developer. Graduated at Industrial University of HoChiMinh city with majoring in Software Technology.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/toan-lv/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LeVanToan-it)
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Van Toan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeVanToan-it&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/PROJECT-ECARD/Ecard-Server.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
-</a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PROJECT-ECARD&repo=Ecard-Server&theme=merko" />
 </a>
+
+<a href="https://github.com/KLTN-NHOM12-TOAN/LambdaBuy-API.git">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=KLTN-NHOM12-TOAN&repo=LambdaBuy-API&theme=radical" />
+</a>    
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
