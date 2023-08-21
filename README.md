@@ -5,8 +5,8 @@ Date of birth: September 9, 2000 <br>
 Address: Ward 17, Go Vap district, HCMC / Bien Hoa - Dong Nai <br>
 Email: lvtoan.cv@gmail.com <br>
 Phone: 08 1949 0540 <br>
-Download <a type="button" href="https://gregarious-fox-bdbbb1.netlify.app/dummy.pdf">My CV</a> <br>
-To view more about myself, please go to <a type="button" href="https://gregarious-fox-bdbbb1.netlify.app/">My Portfolio</a> <br>
+Download <a type="button" href="https://portfolio-dev-lvtoan.netlify.app/Le-Van-Toan-CV.pdf">My CV</a> <br>
+To view more about myself, please go to <a type="button" href="https://portfolio-dev-lvtoan.netlify.app/">My Portfolio</a> <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/toan-lv/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/LeVanToan-it)
